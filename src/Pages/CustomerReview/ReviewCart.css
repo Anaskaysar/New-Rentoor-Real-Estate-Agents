@@ -1,0 +1,15 @@
+.card-image{
+    padding: 8px;
+    height: 114px;
+    width: 114px;
+    border-radius: 50%;
+    border:8px solid rgb(48,79,71,.1);
+    margin: auto;
+
+  }
+.review-card{
+
+  border:1px solid black;
+
+
+}

@@ -1,0 +1,11 @@
+.singleImage{
+    display: flex;
+    margin-left: 15%;
+    margin-top: 5px;
+    justify-content: center;
+}
+
+.gridContainer{
+    margin-left: 30px;
+   
+}

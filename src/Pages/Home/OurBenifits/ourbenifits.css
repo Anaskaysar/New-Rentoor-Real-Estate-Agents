@@ -1,0 +1,52 @@
+.benifit-container{
+    background-color: #0f3c7c;
+    color: aliceblue;
+}
+.reasons-container{
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    line-height: 30px;
+}
+
+.alldetails-container{
+    text-align: center;
+}
+.alldetails-container h1{
+    padding-top:50px ;
+    font-size: 2rem;
+
+}
+
+.svg-files{
+    margin-bottom: 30px;
+    font-size: 1rem;
+    padding:2% 10% 5% 5%;
+    margin-top: 10px;   
+}
+.svg-files svg{
+    margin-left: 2px;  
+    margin-left: 5px;
+}
+.svg-files h3{
+    text-align: center;  
+}
+
+@media screen and (max-width: 960px){
+    .reasons-container{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        padding: 4%;
+        margin-left: 8%;
+        font-size: 36px;
+        line-height: 30px;
+    }
+    .alldetails-container{
+        font-size: .75rem;
+    }
+    .svg-files svg{
+        margin-left: 2px;  
+        margin-left: 5px;
+        width: 60px;
+    }
+}

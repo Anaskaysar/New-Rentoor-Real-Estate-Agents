@@ -1,0 +1,23 @@
+.about-img{
+    margin-left:40%;
+    margin-top: 20px;
+    width: 50%;
+}
+
+.btn-contact{
+    margin-top: 10%;
+    width: 50%;
+    margin-left: 10px;
+    height: 44px;
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 20px;
+    height: 70px;
+    color: #222;
+    background: #f8c27d;
+    cursor: pointer;
+    border: 1px solid #f8c27d;
+    font-family: "IBM Plex Sans",sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+}

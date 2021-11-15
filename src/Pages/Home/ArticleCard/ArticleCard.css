@@ -1,0 +1,9 @@
+/* Bottom right text */
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: rgb(0, 17, 255);
+    color: white;
+
+  }

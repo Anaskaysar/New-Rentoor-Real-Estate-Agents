@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Dina Jems",
+        "profession":"Traveller",
+        "Review":"As a buyer in a busy market where everyone is a real estate agent, I seek transparency in true numbers & Finderland is my first and only choice.Searches for multiplexes, property comparisons, and the loan estimator. Works great.",
+        "Rating":5,
+        "date":"02-02-2021",
+        "img":"https://i.ibb.co/8M8nwJD/cu2.png"
+    },
+    {
+        "name":" Ivan Menezes",
+        "profession":"Traveller",
+        "Review":"I love the way you guys are always very helpful and accomodating. Your service is excellent and I am more than happy to use your organisation for all future holidays.",
+        "Rating":5,
+        "date":"01-01-2020",
+        "img":"https://i.ibb.co/pXrXYrd/dina.png"
+    },
+    {
+        "name":"John Dignam",
+        "profession":"Traveller",
+        "Review":"Very good channel manager. Intuitive use, and quick handling. A special mention for Damaris, from the connectivity department for her high availability and her monitoring of files. We have connected almost 100 apartments together and it's always a pleasure!.",
+        "Rating":5,
+        "date":"13-02-2020",
+        "img":"https://i.ibb.co/FqN2z36/reviewer-3-21d99f5c.png"
+    },
+    {
+        "name":"Barbara Batley",
+        "profession":"Traveller",
+        "Review":"As a buyer in a busy market where everyone is a real estate agent, I seek transparency in true numbers & Finderland is my first and only choice.Searches for multiplexes, property comparisons, and the loan estimator. Works great.",
+        "Rating":5,
+        "date":"04-02-2019",
+        "img":"https://i.ibb.co/FqN2z36/reviewer-3-21d99f5c.png"
+    },
+    {
+        "name":"Cristina Debyss",
+        "profession":"Traveller",
+        "Review":"As a buyer in a busy market where everyone is a real estate agent, I seek transparency in true numbers & Finderland is my first and only choice.Searches for multiplexes, property comparisons, and the loan estimator. Works great.",
+        "Rating":5,
+        "date":"30-02-2021",
+        "img":"https://i.ibb.co/FqN2z36/reviewer-3-21d99f5c.png"
+    },
+    {
+        "name":"Albina Jems",
+        "profession":"Traveller",
+        "Review":"As a buyer in a busy market where everyone is a real estate agent, I seek transparency in true numbers & Finderland is my first and only choice.Searches for multiplexes, property comparisons, and the loan estimator. Works great.",
+        "Rating":5,
+        "date":"05-05-2021",
+        "img":"https://i.ibb.co/8M8nwJD/cu2.png"
+    }
+]
