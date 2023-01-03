@@ -7,8 +7,8 @@ Our website is made to become your reliable guide being organized in a simple ma
 ## 🚀 Important Links
 
 - [Live Website](https://new-rentoor-react.web.app/)
-- [Client Repository](https://github.com/programming-hero-web-course-4/niche-website-client-side-Anaskaysar)
-- [Server Repository](https://github.com/programming-hero-web-course-4/niche-website-server-side-Anaskaysar)
+- [Client Repository](https://github.com/Anaskaysar/New-Rentoor-Real-Estate-Agents)
+- [Server Repository](https://github.com/Anaskaysar/New-Rentoor-Server-Side)
 - [Live API Server](https://boiling-reef-11210.herokuapp.com/)
 
 ## 🛠 Technology Stack
